@@ -69,10 +69,6 @@ article:hover{
     display: block;
 }
 
-
-/* Make images scale */
-
-
 .project-list{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
