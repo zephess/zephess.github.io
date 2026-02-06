@@ -71,10 +71,7 @@ article:hover{
 
 
 /* Make images scale */
-img {
-    max-width: 100%;
-    height: auto;
-}
+
 
 .project-list{
     display: grid;
