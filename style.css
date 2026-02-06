@@ -76,6 +76,18 @@ article:hover{
     padding: 60px 40px;
 }
 
+#contact a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+#contact a:hover {
+  text-shadow: 0 0 8px var(--accent);
+  color: #fff;
+}
+
 /* Tablets: 2 columns */
 @media (max-width: 900px) {
   .project-list {
