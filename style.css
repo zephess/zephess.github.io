@@ -103,6 +103,17 @@ article:hover{
     padding: 60px 40px;
 }
 
+.project-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.project-link article:hover {
+    border-color: var(--accent);
+    box-shadow: 0 0 12px var(--accent);
+}
+
 #contact a {
   color: var(--accent);
   text-decoration: none;
